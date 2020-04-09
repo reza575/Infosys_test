@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#8F2C4E</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="activitySignAccent">#F3051A</color>
+    <color name="activitySplashAccent">#ffffff</color>
+    <color name="activityShowPrimary">#EE3A3A</color>
+    <color name="activityWaitAccent">#EE3A3A</color>
+</resources>
